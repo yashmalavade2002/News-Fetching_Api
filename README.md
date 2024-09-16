@@ -18,4 +18,4 @@ This website is bulid using following Technology
 > Display news articles with title, description, and link for detailed reading.
 
 ### Demo Image
-![image alt]()
+![image alt](https://github.com/yashmalavade2002/News-Fetching_Api/blob/290cd17c12d105703fc97b0b77372bb0480f8383/Snapshot.jpg)
